@@ -1,0 +1,19 @@
+.p {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, Tahoma, sans-serif;
+}
+
+#divLine2{
+    color: blue;
+    font-size: 36px;
+}
+
+.divLine3{
+    font-size: 24px;
+}
+
+#divLine4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
